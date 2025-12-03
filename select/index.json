@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "天国の改札 (Leaks From His Laptop)",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2025-12-03T14:23:00.867208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天国の改札 - Leaks From His Laptop",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/01_天国の改札_-_Leaks_From_His_Laptop_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天国の改札",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_天国の改札_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天国の改札 (Leaks From His Laptop)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_天国の改札_(Leaks_From_His_Laptop)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天国の改札",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_天国の改札_キタニタツヤ.txt"
+    }
+  ]
+}
